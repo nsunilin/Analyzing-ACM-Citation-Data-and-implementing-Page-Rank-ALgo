@@ -4,6 +4,7 @@
 // 2. Retrieving (title ,index) pairs and saving it in pgTP.txt
 //_____________________________________________________________________________________________
 
+
 import org.apache.hadoop.conf._
 import org.apache.hadoop.io._
 import org.apache.hadoop.mapreduce.lib.input._
